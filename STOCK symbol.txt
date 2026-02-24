@@ -1,0 +1,12 @@
+| Company              | Stock Symbol |
+| -------------------- | ------------ |
+| 🍎 Apple             | **AAPL**     |
+| 🚗 Tesla             | **TSLA**     |
+| 🔍 Google (Alphabet) | **GOOGL**    |
+| 🖥 Microsoft         | **MSFT**     |
+| 📘 Meta (Facebook)   | **META**     |
+| 🛒 Amazon            | **AMZN**     |
+| 🎬 Netflix           | **NFLX**     |
+| 💳 Visa              | **V**        |
+| 💰 PayPal            | **PYPL**     |
+| 🏦 JPMorgan Chase    | **JPM**      |
